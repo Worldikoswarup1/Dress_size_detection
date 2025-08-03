@@ -51,4 +51,5 @@ It uses **YOLOv12**, **MediaPipe**, and **OpenCV** to analyze the person’s pos
 
 ```bash
 video_path = "/content/dresscombo.mp4"
-person_height_cm = 178  # user enters manually
+person_height_cm = 170  # user enters manually
+
